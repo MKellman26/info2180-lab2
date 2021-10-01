@@ -85,4 +85,7 @@ li {
 
 footer {
     grid-row: 3 / span 1;
+    grid-column: 1/ span 2;
+    background-color: #2C5282;
+    color: #FFFFFF;
 }
