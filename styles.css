@@ -51,9 +51,9 @@ h2 {
 }
 
 .blog_post1 {
-    float: left;
+    float: right;
     width: 200px;
-    height: 100px
+    height: 200px
 }
 
 .blog_post2 {
